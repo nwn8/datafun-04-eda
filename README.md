@@ -1,2 +1,7 @@
 # datafun-04-eda
-For Module 4 
+this is a project to create a Jupyter Notebook for Module 4.
+
+
+Create a .gitignore, requirements.txt, and utilslogger.py
+
+copies of these files can be found at https://github.com/nwn8/pro-analytics-o1
