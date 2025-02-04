@@ -10,3 +10,7 @@ use the directions in requirements.txt to install dependencies and activate virt
 
 create a notebook file ending in .ipynb and add interpreter.
 
+Module_4.3_EDA.ipynb is the main notebook for this repository.  
+
+The others were test to fullfill a requirement for a grade.
+
